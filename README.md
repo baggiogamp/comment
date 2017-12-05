@@ -1,2 +1,1 @@
-# comment
-for study spring cloud
+This project is for learning spring cloud, comment service.
